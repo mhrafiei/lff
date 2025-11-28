@@ -1,2 +1,1 @@
-# lff
-Lear For Free
+# Learn For Free
